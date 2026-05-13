@@ -84,8 +84,3 @@ src/
   SearchBox.jsx
   InfoBox.jsx
 ```
-
-## Notes
-
-- `.env` is ignored by Git and should not be committed
-- You need a valid OpenWeather API key for the app to work
